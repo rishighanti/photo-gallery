@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Swipeable } from "react-swipeable";
-import PhotoNav from './PhotoNav';
-import PhotoBlock from './PhotoBlock';
-import FullPhoto from './FullPhoto';
+import PhotoNav from '../PhotoNav/PhotoNav';
+import PhotoBlock from '../PhotoBlock/PhotoBlock';
+import FullPhoto from '../FullPhoto/FullPhoto';
 import './PhotoGallery.scss';
 
 export class PhotoGallery extends Component {
