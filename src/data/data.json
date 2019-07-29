@@ -27,12 +27,12 @@
     },
     {
       "id": "6",
-      "url": "img6.jpeg",
+      "url": "img6.jpg",
       "caption": "brown house near body of water"
     },
     {
       "id": "7",
-      "url": "img7.jpeg",
+      "url": "img7.jpg",
       "caption": "three brown wooden boat on blue lake water"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": "9",
-      "url": "img9.jpeg",
+      "url": "img9.jpg",
       "caption": "waterfalls at daytime"
     },
     {
@@ -57,13 +57,23 @@
     },
     {
       "id": "12",
-      "url": "img12.jpeg",
+      "url": "img12.jpg",
       "caption": "snow coverd iced mountains"
     },
     {
       "id": "13",
-      "url": "img13.jpeg",
+      "url": "img13.jpg",
       "caption": "gloomy night sky stars and moon"
+    },
+    {
+      "id": "14",
+      "url": "img14.jpg",
+      "caption": "gushing boalder water on rocks"
+    },
+    {
+      "id": "15",
+      "url": "img15.jpg",
+      "caption": "infinity road to no where"
     }
   ]
 }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './photoNav.scss';
+import './PhotoNav.scss';
 
 export default class PhotoNav extends Component {
     render() {
