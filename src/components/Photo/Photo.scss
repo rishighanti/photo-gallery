@@ -1,0 +1,14 @@
+.photoPreview {
+  display: inline-block;
+  overflow: hidden;
+
+  width: 200px;
+  height: 200px;
+  margin: 0 2px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  cursor: pointer;
+}

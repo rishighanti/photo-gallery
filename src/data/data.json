@@ -1,0 +1,69 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "url": "img1.jpeg",
+      "caption": "body of water surrounded by trees"
+    },
+    {
+      "id": "2",
+      "url": "img2.jpeg",
+      "caption": "green hills with forest under cloudy sky"
+    },
+    {
+      "id": "3",
+      "url": "img3.jpeg",
+      "caption": "green leaf trees under blue sky"
+    },
+    {
+      "id": "4",
+      "url": "img4.jpeg",
+      "caption": "forest heat by sunbeam"
+    },
+    {
+      "id": "5",
+      "url": "img5.jpeg",
+      "caption": "sunrays behind the clouds"
+    },
+    {
+      "id": "6",
+      "url": "img6.jpeg",
+      "caption": "brown house near body of water"
+    },
+    {
+      "id": "7",
+      "url": "img7.jpeg",
+      "caption": "three brown wooden boat on blue lake water"
+    },
+    {
+      "id": "8",
+      "url": "img8.jpeg",
+      "caption": "mountain peak during golden hour"
+    },
+    {
+      "id": "9",
+      "url": "img9.jpeg",
+      "caption": "waterfalls at daytime"
+    },
+    {
+      "id": "10",
+      "url": "img10.jpeg",
+      "caption": "andscape photography mountain range with snow"
+    },
+    {
+      "id": "11",
+      "url": "img11.jpeg",
+      "caption": "birds flying away"
+    },
+    {
+      "id": "12",
+      "url": "img12.jpeg",
+      "caption": "snow coverd iced mountains"
+    },
+    {
+      "id": "13",
+      "url": "img13.jpeg",
+      "caption": "gloomy night sky stars and moon"
+    }
+  ]
+}

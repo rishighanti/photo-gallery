@@ -1,0 +1,38 @@
+.fullPhoto {
+  position: fixed;
+  overflow: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  max-width: 100%;
+  max-height: 100%;
+
+  background-color: rgba(20, 20, 20, 0.8);
+
+  z-index: 10;
+}
+
+.fullPhoto img {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  max-width: 90%;
+  max-height: 90%;
+
+  margin: auto;
+  transition: all 1.0s ease-in-out;
+}
+
+.fullPhoto p {
+  color: white;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  position: absolute;
+  bottom: 10%;
+  z-index: 2;
+}
