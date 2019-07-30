@@ -53,7 +53,6 @@ export class PhotoGallery extends Component {
     }
 
     handlePhotoNavClick(delta) {
-        console.log(delta);
         var newImageIndex = this.state.fullScreenPhotoIndex + delta;
         if(newImageIndex < 0) {
             newImageIndex = this.props.photoURLs.images.length - 1;
